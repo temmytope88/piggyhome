@@ -1,0 +1,93 @@
+body{background-color:rgb(5, 35, 99);
+    margin: 0;
+    padding: 0;
+  }
+
+.bottom{
+    color: white;
+    position: relative;
+    
+    width:35%;
+    margin-left: 30%;
+    margin-left: 30%;
+    bottom: 100px;
+  }
+
+.top{width:35%;
+    margin-left: 30%;
+    margin-left: 30%;
+    position: relative;
+    top:80px
+  }
+
+img{position: relative;
+  left:140px;
+
+  }
+
+#main{
+      background-color: whitesmoke;
+      width: 35%;
+      height: 750px;
+      margin-top: 120px;
+      margin-bottom: 120px;
+      margin-left: 30%;
+      margin-right: 30%;
+      border-top-left-radius: 20px;
+      border-bottom-right-radius:20px ;
+      border-top-right-radius: 20px;
+      
+    }
+    
+#form{margin-left: 15%;
+      margin-right: 10%;
+      position: relative;
+      top:40px;
+      
+    }
+    
+.title1{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      margin-top: 100px;
+      margin-bottom: 0;
+      font-size: 22px;
+      color: rgb(5, 35, 100);
+      padding-left:120px;
+      position: relative;
+      top:50px
+    }
+
+    .last{
+      position: relative;
+      left:110px;
+    }
+    
+.but{background-color: rgb(5, 35, 99);
+  color: white;
+              border-top-left-radius: 10px;
+              border-top-right-radius:10px ;
+              border-bottom-right-radius:10px ;
+              margin-top:10px ;
+              height: 60px;
+      }
+      
+.sty{font-size:14px ;
+font-family: fantasy;
+margin-top: 0;
+margin-bottom: 0;
+position: relative;
+top:45px;
+left:20px;
+color: grey;}
+
+input,select{font-size: 14;
+color: grey;
+border: grey solid, 3px;
+background-color: rgb(224, 224, 247);
+width:93% ;
+height:45px ;}
+
+label{font-size: 14px;
+line-height: 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    
+    
